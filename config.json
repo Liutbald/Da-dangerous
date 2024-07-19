@@ -1,0 +1,14 @@
+{
+  "webhooks": [
+    {
+      "name": "My Webhook",
+      "url": "https://discord.com/api/webhooks/1263738493629104138/XSa-gKYW63_iVizE9sA3W5UMR0x9JGERWwBs34aQKVkuy6ONm1pjKTdB4jeno2sUAfJG"
+    }
+  ],
+  "image": [
+    {
+      "name": "NAME OF IMAGE",
+      "path": "URL OF IMAGE or PATH OF IMAGE" // src/assets/IMAGE_NAME.png
+    }
+  ]
+}
