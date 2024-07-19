@@ -9,7 +9,10 @@
     {
       "name": "Sus",
       "path": "src/assets/past.png" // src/assets/IMAGE_NAME.png
-      
+    },
+    {
+      "name": "Raciste",
+      "path": "src/assets/Raciste.png" // src/assets/IMAGE_NAME.png
     }
   ]
 }
